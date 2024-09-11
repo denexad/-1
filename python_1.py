@@ -1,8 +1,8 @@
-my_text = "Hello, World!"
-my_name = "Denis"
-my_last_name = "Panasiyk"
-my_year = 16
+hello = "Hello, World!"
+name = "Denis"
+last_name = "Panasiyk"
+year = 16
 
-print(type "my_text" type "my_name" type "my_last_name" type "my_year") 
+print(type (hello), type (name), type (last_name), type (year)) 
 
-print(my_text, my_name, my_last_name, my_year)
+print( hello, name, last_name, year)
